@@ -1,0 +1,9 @@
+<ul class="menu red">
+<div align="center">
+<li><a href="index.php"><span class="menu">HOME</span></a></li>
+<li class="current"><a href="ally.php"><span class="menu">ALIANÇAS</span></a></li>
+<li><a href="top.php"><span class="menu">MEDALHAS</span></a></li>
+<li><a href="admin.php"><span class="menu">ADMINISTRAÇÃO</span></a></li>
+<li><a href="farms.php"><span class="menu">FARMS</span></a></li>
+</div>
+</ul>
